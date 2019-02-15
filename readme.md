@@ -1,5 +1,5 @@
 # Dubsado for Franz
-Unofficial Dubsado resipe for Franz by the team at The Agency Trailblazer community.
+Unofficial Dubsado recipe for Franz by the team at [The Agency Trailblazer](https://agencytrailblazer.com/category/podcast/) community.
 
 ### How to use
 
