@@ -1,10 +1,10 @@
 {
   "id": "dubsado",
   "name": "Dubsado",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Dubsado",
   "main": "index.js",
-  "author": "Angled Crown <karthikeyan@angledcrown.com>",
+  "author": "Angled Crown>",
   "license": "MIT",
   "config": {
     "serviceURL": "https://hello.dubsado.com/dashboard",
