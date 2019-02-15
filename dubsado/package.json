@@ -1,0 +1,13 @@
+{
+  "id": "dubsado",
+  "name": "Dubsado",
+  "version": "1.0.0",
+  "description": "Dubsado",
+  "main": "index.js",
+  "author": "Angled Crown <karthikeyan@angledcrown.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://hello.dubsado.com/dashboard",
+    "hasNotificationSound": true
+  }
+}
